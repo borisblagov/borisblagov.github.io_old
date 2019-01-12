@@ -4,8 +4,32 @@
     
     <url>
     
+      <loc>/publication/2018_eru/</loc>
+      <lastmod>2018-12-15T16:36:53+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_md/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017_ee/</loc>
+      <lastmod>2017-04-09T10:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -13,7 +37,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -21,7 +45,25 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2018-12-15T16:36:53+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -29,7 +71,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,7 +87,35 @@
     
     <url>
     
+      <loc>/tags/dsge/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/markov-switching/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/research/</loc>
+      <lastmod>2018-12-15T16:36:53+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,6 +124,16 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/uncertainty/</loc>
+      <lastmod>2018-12-15T16:36:53+01:00</lastmod>
       <priority>0</priority>
     </url>
     

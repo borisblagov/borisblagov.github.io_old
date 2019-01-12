@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exchange rate uncertainty and import prices in the euro area</title>
+      <link>/publication/2018_eru/</link>
+      <pubDate>Sat, 15 Dec 2018 16:36:53 +0100</pubDate>
+      
+      <guid>/publication/2018_eru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The regime-dependent evolution of credibility: a fresh look at Hong Kong&#39;s linked exchange rate system</title>
+      <link>/publication/2018_md/</link>
+      <pubDate>Sun, 01 Apr 2018 16:36:53 +0100</pubDate>
+      
+      <guid>/publication/2018_md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
+      <link>/publication/2017_ee/</link>
+      <pubDate>Sun, 09 Apr 2017 10:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_ee/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
