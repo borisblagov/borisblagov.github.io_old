@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,18 +33,18 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
       <description>Welcome I am an economist and a professional forecaster for RWI – Leibniz Institute of Economic Research at the division Macroeconomics and Public Finance.
 I teach at the University of Duisburg-Essen as a lecturer at the Chair of Monetary Policy and Financial Markets of Prof. Dr. Peter Anker.
-On this page you will find my research papers and replication codes, our forecasts as well as teaching materials.</description>
+On this page you will find my research, forecasts, replication codes, and teaching materials.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -60,9 +60,27 @@ On this page you will find my research papers and replication codes, our forecas
     </item>
     
     <item>
-      <title>Resarch Highlight</title>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resarch Spotlight</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -78,9 +96,9 @@ On this page you will find my research papers and replication codes, our forecas
     </item>
     
     <item>
-      <title>Research</title>
+      <title>Papers</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -89,53 +107,53 @@ On this page you will find my research papers and replication codes, our forecas
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Conferences</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <title>Conferences</title>
+      <link>/home/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/home/teaching/</guid>
+      <guid>/home/conferences/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>University of Duisburg-Essen
+Makroökonomik für interdisziplinäre Studiengänge WS 18/19 (Lecture) Makroökonomik für interdisziplinäre Studiengänge WS 17/18 (Lecture) ​Makroökonomik für interdisziplinäre Studiengänge WS 16/17 (Lecture)
+​ Leuphana University Lüneburg
+Mathematics for Economics and Business Students WS 15/16 (Lecture)
+​ University of Hamburg
+Statistics and Econmetrics SS 15 (Exercise)
+Macroeconomics for interdisciplinary studies WS 14/15 (Exercise)
+Statistics and Econmetrics SS 14 (Exercise)
+Macroeconomics for interdisciplinary studies WS 13/14(Exercise)
+Statistics and Econmetrics SS 13 (Exercise)</description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -144,7 +162,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

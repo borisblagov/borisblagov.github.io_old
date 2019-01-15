@@ -4,6 +4,38 @@
     
     <url>
     
+      <loc>/project/bca/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/bcf/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/gd/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/teaching/unidue/</loc>
+      <lastmod>2019-01-14T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/2018_eru/</loc>
       <lastmod>2018-12-15T16:36:53+01:00</lastmod>
     </url>
@@ -28,8 +60,16 @@
     
     <url>
     
+      <loc>/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -37,7 +77,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -45,7 +85,63 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2016_ob/</loc>
+      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started0/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started1/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started2/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2015_bis/</loc>
+      <lastmod>2015-11-01T16:36:53+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <lastmod>2019-01-14T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -70,8 +166,17 @@
     
     <url>
     
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -96,8 +201,26 @@
     
     <url>
     
+      <loc>/tags/forecast/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/markov-switching/</loc>
       <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -114,6 +237,15 @@
     
     <url>
     
+      <loc>/tags/research/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/research/</loc>
       <lastmod>2018-12-15T16:36:53+01:00</lastmod>
       <priority>0</priority>
@@ -123,8 +255,23 @@
     
     <url>
     
+      <loc>/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
-      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -134,6 +281,24 @@
     
       <loc>/tags/uncertainty/</loc>
       <lastmod>2018-12-15T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/var/</loc>
+      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/interest-rate-premia/</loc>
+      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
       <priority>0</priority>
     </url>
     

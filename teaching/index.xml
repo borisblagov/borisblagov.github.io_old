@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boris Blagov</title>
+    <link>/teaching/</link>
+    <description>Recent content on Boris Blagov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Makroökonomik für interdisziplinäre Studiengägnge WS 18/19</title>
+      <link>/teaching/unidue/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/unidue/</guid>
+      <description>Info Wann: Dienstags 18:00 bis 19:30
+​ Wo: Audimax LA
+​ Skript: Skript vom Vorjahr (immer noch aktuell)
+​ Vom Skript werden nur die folgenden Teile behandelt: Teil III und IV, S. 200-288; 306-406
+​ Alte Klausuren: Hier (benötigt UDE ZIM login). Danach links auf Klausuraufgaben klicken und die pdf Klausuraufgaben Makroökonomik herunterladen. ​
+Termine    Vorl. # Termin Skript Seiten Mankiw, 4th edition Anmerkung     1 16.</description>
+    </item>
+    
+  </channel>
+</rss>

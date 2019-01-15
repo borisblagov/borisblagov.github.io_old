@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Apr 2018 16:36:53 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DSGE</title>
@@ -18,6 +27,15 @@
       <pubDate>Sun, 01 Apr 2018 16:36:53 +0100</pubDate>
       
       <guid>/tags/dsge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast</title>
+      <link>/tags/forecast/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/forecast/</guid>
       <description></description>
     </item>
     
@@ -31,11 +49,38 @@
     </item>
     
     <item>
+      <title>Research</title>
+      <link>/tags/research/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uncertainty</title>
       <link>/tags/uncertainty/</link>
       <pubDate>Sat, 15 Dec 2018 16:36:53 +0100</pubDate>
       
       <guid>/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAR</title>
+      <link>/tags/var/</link>
+      <pubDate>Wed, 06 Jul 2016 16:36:53 +0100</pubDate>
+      
+      <guid>/tags/var/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interest rate premia</title>
+      <link>/tags/interest-rate-premia/</link>
+      <pubDate>Wed, 06 Jul 2016 16:36:53 +0100</pubDate>
+      
+      <guid>/tags/interest-rate-premia/</guid>
       <description></description>
     </item>
     

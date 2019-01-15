@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAR on Boris Blagov</title>
+    <link>/tags/var/</link>
+    <description>Recent content in VAR on Boris Blagov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 06 Jul 2016 16:36:53 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/var/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
+      <link>/publication/2016_ob/</link>
+      <pubDate>Wed, 06 Jul 2016 16:36:53 +0100</pubDate>
+      
+      <guid>/publication/2016_ob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the time-variation in euro area lending spreads</title>
+      <link>/publication/2015_bis/</link>
+      <pubDate>Sun, 01 Nov 2015 16:36:53 +0100</pubDate>
+      
+      <guid>/publication/2015_bis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

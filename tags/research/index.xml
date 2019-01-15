@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Boris Blagov</title>
+    <link>/tags/research/</link>
+    <description>Recent content in Research on Boris Blagov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Cycle Analysis</title>
+      <link>/project/bca/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/bca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Cycle Forecasts</title>
+      <link>/project/bcf/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/bcf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
