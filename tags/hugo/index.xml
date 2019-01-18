@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Boris Blagov</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on Boris Blagov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 18 Jan 2019 10:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my new website</title>
+      <link>/post/post_1/</link>
+      <pubDate>Fri, 18 Jan 2019 10:00:00 +0100</pubDate>
+      
+      <guid>/post/post_1/</guid>
+      <description>Hello from my new webpage!
+I am migrating from my wix website. My previous webpage was rather slow and resource intensive and most of all updating anything required quite a bit of effort on my part. This website is built with Hugo and is a pleasure to make, so I am confident that I can stay on schedule with updating this one.
+Shoutout to the creator of the theme - George Cushen.</description>
+    </item>
+    
+  </channel>
+</rss>
