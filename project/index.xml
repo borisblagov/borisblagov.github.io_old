@@ -13,20 +13,11 @@
     
     
     <item>
-      <title>Business Cycle Analysis</title>
+      <title>Economic Analysis</title>
       <link>/project/bca/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/bca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business Cycle Forecasts</title>
-      <link>/project/bcf/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/bcf/</guid>
       <description></description>
     </item>
     
@@ -38,6 +29,15 @@
       <guid>/project/gd/</guid>
       <description>The Joint Economic Forecast is prepared bi-annually in spring and in autumn on behalf of the Federal Ministry for Economic Affairs and Energy. The forecast is prepared by:
  German Institute for Economic Research (DIW Berlin) ifo Institute - Leibniz Institute for Economic Research at the University of Munich in cooperation with the KOF Swiss Economic Institute – ETH Zurich Kiel Institute for the World Economy (IfW) Halle Institute for Economic Research (IWH) – Member of the Leibniz Association RWI – Leibniz Institute for Economic Research in cooperation with the Institute for Advanced Studies in Vienna  </description>
+    </item>
+    
+    <item>
+      <title>RWI Business Cycle Forecasts</title>
+      <link>/project/bcf/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/project/bcf/</guid>
+      <description></description>
     </item>
     
   </channel>

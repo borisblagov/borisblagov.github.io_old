@@ -4,15 +4,15 @@
     
     <url>
     
-      <loc>/project/bca/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+      <loc>/post/post_1/</loc>
+      <lastmod>2019-01-18T10:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/project/bcf/</loc>
+      <loc>/project/bca/</loc>
       <lastmod>2019-01-15T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>/project/bcf/</loc>
+      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/teaching/unidue/</loc>
       <lastmod>2019-01-14T00:00:00+01:00</lastmod>
     </url>
@@ -36,8 +44,24 @@
     
     <url>
     
+      <loc>/publication/2018_kb_q4/</loc>
+      <lastmod>2018-12-17T11:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/2018_eru/</loc>
       <lastmod>2018-12-15T16:36:53+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_gd_q3/</loc>
+      <lastmod>2018-09-27T11:00:00+01:00</lastmod>
     </url>
     
   
@@ -60,7 +84,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/talk/2018_17_12_kb_2018_q4/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -94,38 +118,6 @@
     
       <loc>/publication/2016_ob/</loc>
       <lastmod>2016-07-06T16:36:53+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started0/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started1/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started2/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -166,8 +158,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <loc>/publication_types/8/</loc>
+      <lastmod>2018-12-17T11:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -203,6 +195,15 @@
     
       <loc>/tags/forecast/</loc>
       <lastmod>2019-01-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/forecasts/</loc>
+      <lastmod>2018-12-17T11:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,7 +272,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -290,6 +291,15 @@
     
       <loc>/tags/var/</loc>
       <lastmod>2016-07-06T16:36:53+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/hugo/</loc>
+      <lastmod>2019-01-18T10:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

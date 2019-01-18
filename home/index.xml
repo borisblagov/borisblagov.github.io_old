@@ -60,6 +60,15 @@ On this page you will find my research, forecasts, replication codes, and teachi
     </item>
     
     <item>
+      <title>News</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -69,16 +78,7 @@ On this page you will find my research, forecasts, replication codes, and teachi
     </item>
     
     <item>
-      <title>Recent</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resarch Spotlight</title>
+      <title>Resarch</title>
       <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -87,7 +87,7 @@ On this page you will find my research, forecasts, replication codes, and teachi
     </item>
     
     <item>
-      <title>Accomplish&amp;shy;ments</title>
+      <title>Forecasts</title>
       <link>/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -96,11 +96,20 @@ On this page you will find my research, forecasts, replication codes, and teachi
     </item>
     
     <item>
-      <title>Papers</title>
+      <title>Research articles</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasts</title>
+      <link>/home/forecasts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/forecasts/</guid>
       <description></description>
     </item>
     
@@ -114,7 +123,7 @@ On this page you will find my research, forecasts, replication codes, and teachi
     </item>
     
     <item>
-      <title>Conferences</title>
+      <title>Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
