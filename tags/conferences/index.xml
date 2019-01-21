@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Boris Blagov</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Boris Blagov</description>
+    <title>conferences on Boris Blagov</title>
+    <link>/tags/conferences/</link>
+    <description>Recent content in conferences on Boris Blagov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 11:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <guid>/post/2019_01_21/</guid>
       <description>I will be attending ICEEE 2019 conference in Lecce, Italy where I will present my paper Exchange rate uncertainty and import prices in the euro area on Friday, the 25-th. My talk will take place in Room 3 of Building 6 (Campus Studium 2000) in the session from 14:30 to 16:10.
 I have created a calendar .ics file which mimics page 3 from the program. You may import it in your calendar app and add the Rooms to the sessions that you want to attend.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to my new website</title>
-      <link>/post/post_1/</link>
-      <pubDate>Fri, 18 Jan 2019 10:00:00 +0100</pubDate>
-      
-      <guid>/post/post_1/</guid>
-      <description>Hello from my new webpage!
-I am migrating from my wix website. My previous webpage was rather slow and resource intensive and most of all updating anything required quite a bit of effort on my part. This website is built with Hugo and is a pleasure to make, so I am confident that I can stay on schedule with updating this one.
-Shoutout to the creator of the theme - George Cushen.</description>
     </item>
     
   </channel>
