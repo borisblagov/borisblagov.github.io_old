@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>Economic Analysis</title>
       <link>/project/bca/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/bca/</guid>
-      <description></description>
+      <description>Below you will find a collection of my economic research. I have dealt mostly with understanding the effects of economic crises on the economy through the pricing of risk in interest rates, as well as economic uncertainty.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/bcf/</guid>
-      <description></description>
+      <description>The RWI &amp;ndash; Leibniz Institute for Economic Research conducts a quarterly analysis of the business cycle developments in Germany and provides a short term forecast (up to 2 years). This analysis includes a detailed forecast for the internatinoal economy bi-annualy (March and September). Below you will find a collection of the forecasts that I have taken part of.</description>
     </item>
     
   </channel>
