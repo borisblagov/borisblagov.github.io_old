@@ -28,14 +28,6 @@
     
     <url>
     
-      <loc>/posts/test2/</loc>
-      <lastmod>2019-03-12T11:00:38+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/post/2019_03_12/</loc>
       <lastmod>2019-03-12T11:00:00+01:00</lastmod>
     </url>
@@ -269,15 +261,6 @@
     
       <loc>/tags/markov-switching/</loc>
       <lastmod>2018-04-01T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/posts/</loc>
-      <lastmod>2019-03-12T11:00:38+01:00</lastmod>
       <priority>0</priority>
     </url>
     
