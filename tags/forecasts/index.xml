@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 11:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 11:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/forecasts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Summer 2019: RWI economic forecast</title>
+      <link>/post/2019_06_18/</link>
+      <pubDate>Tue, 18 Jun 2019 11:00:00 +0200</pubDate>
+      
+      <guid>/post/2019_06_18/</guid>
+      <description>The June 2019 RWI &amp;ndash; Leibniz Institute for Economic Research forecasts update for Gurmany has been published. We have revised our forecast downward slightly and now expect output growth for Germany of 0.8% (down from 0.9%) for 2019 and 1.4% GDP growth for 2020 (down from 1.5%). See the publication here or have a look directly at the document.</description>
+    </item>
     
     <item>
       <title>Spring Joint Economic Forecast 2019</title>
