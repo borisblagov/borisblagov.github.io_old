@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/teaching/unidue_ws_19_20/</loc>
+      <lastmod>2019-09-25T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2019_09_11/</loc>
       <lastmod>2019-09-11T11:00:00+02:00</lastmod>
     </url>
@@ -60,7 +68,7 @@
     
     <url>
     
-      <loc>/teaching/jacobs/</loc>
+      <loc>/teaching/jacobs_ss_19/</loc>
       <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -124,7 +132,7 @@
     
     <url>
     
-      <loc>/teaching/unidue/</loc>
+      <loc>/teaching/unidue_ws_18_19/</loc>
       <lastmod>2019-01-14T00:00:00+01:00</lastmod>
     </url>
     
@@ -213,7 +221,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-09-25T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -309,8 +317,8 @@
     
     <url>
     
-      <loc>/tags/research/</loc>
-      <lastmod>2019-03-12T00:00:00+01:00</lastmod>
+      <loc>/categories/research/</loc>
+      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -318,8 +326,8 @@
     
     <url>
     
-      <loc>/categories/research/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+      <loc>/tags/research/</loc>
+      <lastmod>2019-03-12T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

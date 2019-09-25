@@ -7,17 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Makroökonomik für interdisziplinäre Studiengägnge WS 19/20</title>
+      <link>/teaching/unidue_ws_19_20/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/unidue_ws_19_20/</guid>
+      <description>Info Wann: Dienstags 16:15 bis 17:45
+​ Wo: Audimax LA
+​ Skript: Hier (benötigt UDE ZIM login)
+​ Vom Skript werden nur die folgenden Teile behandelt: Teil III und IV, S. 200-288; 306-406
+​ Alte Klausuren: Hier (benötigt UDE ZIM login). Danach links auf Klausuraufgaben klicken und die pdf Klausuraufgaben Makroökonomik herunterladen. ​
+Termine    Vorl. # Termin Skript Seiten Mankiw, 4th edition Anmerkung     1 22.</description>
+    </item>
+    
+    <item>
       <title>Financial Crises in the 21-st century</title>
-      <link>/teaching/jacobs/</link>
+      <link>/teaching/jacobs_ss_19/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>/teaching/jacobs/</guid>
+      <guid>/teaching/jacobs_ss_19/</guid>
       <description>Info When: Friday, 05.04.2019 9:45 to 18:30 Friday, 26.04.2019 11:15 to 18:30 Saturday, 26.04.2019 9:45 to 18:30
 ​ Where: West Hall
 ​ Material: In campus net.
@@ -26,10 +40,10 @@
     
     <item>
       <title>Makroökonomik für interdisziplinäre Studiengägnge WS 18/19</title>
-      <link>/teaching/unidue/</link>
+      <link>/teaching/unidue_ws_18_19/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/teaching/unidue/</guid>
+      <guid>/teaching/unidue_ws_18_19/</guid>
       <description>Info Wann: Dienstags 18:00 bis 19:30
 ​ Wo: Audimax LA
 ​ Skript: Hier (benötigt UDE ZIM login)
