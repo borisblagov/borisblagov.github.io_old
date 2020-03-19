@@ -1,390 +1,332 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Boris Blagov on Boris Blagov</title>
+    <title>Boris Blagov</title>
     <link>/</link>
-    <description>Recent content in Boris Blagov on Boris Blagov</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boris Blagov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Boris Blagov</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>Makroökonomik für interdisziplinäre Studiengägnge WS 19/20</title>
-      <link>/teaching/unidue_ws_19_20/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/unidue_ws_19_20/</guid>
-      <description>
-
-&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Wann:&lt;/strong&gt;  Dienstags 16:15 bis 17:45&lt;/p&gt;
-
-&lt;p&gt;​
-&lt;strong&gt;Wo:&lt;/strong&gt;      Audimax LA&lt;/p&gt;
-
-&lt;p&gt;​
-&lt;strong&gt;Skript:&lt;/strong&gt; &lt;a href=&#34;https://www.makro.msm.uni-due.de/lehre/download/&#34; target=&#34;_blank&#34;&gt;Hier&lt;/a&gt; (benötigt UDE ZIM login)&lt;/p&gt;
-
-&lt;p&gt;​
-Vom Skript werden nur die folgenden Teile behandelt: Teil III und IV, S. 200-288; 306-406&lt;/p&gt;
-
-&lt;p&gt;​
-&lt;strong&gt;Alte Klausuren:&lt;/strong&gt; &lt;a href=&#34;https://www.makro.msm.uni-due.de/lehre/download/&#34; target=&#34;_blank&#34;&gt;Hier&lt;/a&gt; (benötigt UDE ZIM login). Danach links auf Klausuraufgaben klicken und die pdf &lt;em&gt;Klausuraufgaben Makroökonomik&lt;/em&gt; herunterladen.
-​&lt;/p&gt;
-
-&lt;h2 id=&#34;termine&#34;&gt;Termine&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Vorl. #&lt;/th&gt;
-&lt;th&gt;Termin&lt;/th&gt;
-&lt;th&gt;Skript  Seiten&lt;/th&gt;
-&lt;th&gt;Mankiw, 4th edition&lt;/th&gt;
-&lt;th&gt;Anmerkung&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;22.10.2019&lt;/td&gt;
-&lt;td&gt;200–217 (Teil III.2)&lt;/td&gt;
-&lt;td&gt;Kapitel 7&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;29.10.2019&lt;/td&gt;
-&lt;td&gt;218–239&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;05.10.2019&lt;/td&gt;
-&lt;td&gt;240—255 (Teil III.3)&lt;/td&gt;
-&lt;td&gt;Kapitel 8&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;12.11.2019&lt;/td&gt;
-&lt;td&gt;256—271&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;19.11.2019&lt;/td&gt;
-&lt;td&gt;271—288&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;26.11.2019&lt;/td&gt;
-&lt;td&gt;306—321 (Teil IV)&lt;/td&gt;
-&lt;td&gt;Kapitel 9&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;03.12.2019&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Keine Vorlesung&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;10.12.2019&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Keine Vorlesung&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;17.12.2019&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Fällt aus&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;24.12.2019&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Ferien&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;31.12.2019&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Ferien&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;07.01.2020&lt;/td&gt;
-&lt;td&gt;322—341&lt;/td&gt;
-&lt;td&gt;Kapitel  9, 10&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;14.01.2020&lt;/td&gt;
-&lt;td&gt;346—360&lt;/td&gt;
-&lt;td&gt;Kapitel 10&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;21.01.2020&lt;/td&gt;
-&lt;td&gt;360—379&lt;/td&gt;
-&lt;td&gt;Kapitel 11&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;28.01.2020&lt;/td&gt;
-&lt;td&gt;380—394&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;04.02.2020&lt;/td&gt;
-&lt;td&gt;394—406&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;​&lt;/p&gt;
+      <title>Example Page 1</title>
+      <link>/teaching/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/teaching/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Latest international and German RWI forecasts: September 2019</title>
-      <link>/post/2019_09_11/</link>
-      <pubDate>Wed, 11 Sep 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/post/2019_09_11/</guid>
-      <description>&lt;p&gt;The latest RWI &amp;ndash; Leibniz Institute for Economic Research forecasts for the international economy and Germany is from September 2019. &lt;a href=&#34;/publication/2019_kb_q3/&#34;&gt;See the publication here&lt;/a&gt; or have a look at the full [document] in German(&lt;a href=&#34;http://www.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_3-2019.pdf&#34; target=&#34;_blank&#34;&gt;http://www.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_3-2019.pdf&lt;/a&gt;).&lt;/p&gt;
+      <title>Example Page 2</title>
+      <link>/teaching/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/teaching/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>September 2019: Global economic downturn continues</title>
-      <link>/publication/2019_kb_q3/</link>
-      <pubDate>Wed, 11 Sep 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_kb_q3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The economic development has differed across sectors. While service sectors are still expanding quite robustly, the weakness of eco-nomic growth can be attributed to manufacturing. Economic policy is likely to have contributed to this slowdown.&lt;/p&gt;
-
-&lt;p&gt;The trade conflict between the USA and China has intensified in recent months, despite temporary signs of a de-escalation. The US has either already increased customs duties on many goods from China or pledged to do so in the future. China has answered by imposing own customs duties on various American products. The escalation of the trade conflicts worldwide is likely to have a significant impact on the global economy throughout the forecast period. Moreover, future rela-tions between the EU and Great Britain, given Britain’s currently probable withdrawal from the EU, are a significant source of uncertainty. The in part erratic economic policy increases uncertainty for businesses and by this has likely contributed to the current weakness in investment activity - accompanied by the slowdowns in the world trade and the manufactur-ing industry.&lt;/p&gt;
-
-&lt;p&gt;For the forecast horizon, we expect the current economic landscape to remain broadly unchanged. In view of the bleak economic outlook, eco-nomic policy, particularly in the form of monetary policy, should attempt to stimulate the economy. The Fed has already lowered its key interest rates in July. However, the global economic expansion is likely to further weaken in coming year. After growth of 2.8% this year, we expect a somewhat lower growth of 2.6% in 2020. In 2021 global production is expected to increase to 2.8%. The inflationary pressure is likely to remain moderate due to the low economic pace.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Table international forecast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Read the full text &lt;a href=&#34;http://en.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_3-2019.pdf&#34; target=&#34;_blank&#34;&gt;here (in German)&lt;/a&gt;.&lt;/p&gt;
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Exchange rate uncertainty and import prices in the euro area</title>
+      <title>Economic development abroad: COVID-19 keeps the world economy in suspense</title>
+      <link>/forecast/forecast_kb_20_1/</link>
+      <pubDate>Thu, 19 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_kb_20_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Economic Forecast 2016--2020</title>
+      <link>/project/2020_gemeinschaftsdiagnose/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/2020_gemeinschaftsdiagnose/</guid>
+      <description>&lt;p&gt;The Joint Economic Forecast is prepared bi-annually in spring and in autumn on behalf of the Federal Ministry for Economic Affairs and Energy. The forecast is prepared by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German Institute for Economic Research (DIW Berlin)&lt;/li&gt;
+&lt;li&gt;ifo Institute - Leibniz Institute for Economic Research at the University of Munich in cooperation with the KOF Swiss Economic Institute – ETH Zurich&lt;/li&gt;
+&lt;li&gt;Kiel Institute for the World Economy (IfW)&lt;/li&gt;
+&lt;li&gt;Halle Institute for Economic Research (IWH) – Member of the Leibniz Association&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://rwi-essen.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RWI – Leibniz Institute for Economic Research&lt;/a&gt; in cooperation with the Institute for Advanced Studies in Vienna&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project duration:&lt;/strong&gt; 2016&amp;ndash;2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding body:&lt;/strong&gt; Federal Ministry of Economics and Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RWI Business Cycle Forecasts</title>
+      <link>/project/rwi_forecasts/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/rwi_forecasts/</guid>
+      <description>&lt;p&gt;The RWI &amp;ndash; Leibniz Institute for Economic Research conducts a quarterly analysis of the business cycle developments in Germany and the world economy since 1954. This analysis includes a detailed forecast for the international economy bi-annually, in March and September.&lt;/p&gt;
+&lt;p&gt;We are a team of experts with years of experience (for some members - decades) and we use cutting edge methods to create a thorough economic forecast for Germany and over 30 other countries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific advisory for the Federal Ministry of Economics and Technology</title>
+      <link>/project/2019_output_gap/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/2019_output_gap/</guid>
+      <description>&lt;p&gt;Scientific advisory for the German delegation from the Federal Ministry of Economics and Technology at the Output gap working group in the European Union.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project duration:&lt;/strong&gt; 2018&amp;ndash;2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding body:&lt;/strong&gt; Federal Ministry of Economics and Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The macroeconomic effects of uncertainty</title>
+      <link>/project/research_unc/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/research_unc/</guid>
+      <description>&lt;p&gt;This is a collection of my papers on the effects of economic uncertainty in an international economic context. Most of my works estimate uncertainty empirically as some form of stochastic volatility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exchange rate uncertainty and import prices in the euro</title>
       <link>/publication/2019_eru/</link>
       <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
-      
       <guid>/publication/2019_eru/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>June 2019: The German economy loses momentum</title>
-      <link>/publication/2019_kb_q2/</link>
-      <pubDate>Tue, 18 Jun 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2019_kb_q2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After having stagnated in the second half of 2018 GDP growth gained momentum  in  the  first  quarter  of  2019.  However,  leading  indicators  such  as  business  confidence and new orders suggest that growth rates will recede in the rest of this year. Domestic demand is expected to continue growing owed to incomes improving further. On the other hand, foreign demand will have a dampening effect on the German economy, since trade policy has taken a more protectionist stance in many countries. Summing up, GDP is expected to grow by 0.8% in this year and 1.4% in the next. The moderation of growth leaves its trace in the labor market. Unemployment rate should decline  slightly  only  to  5.0%  in  this  year  and  4.9%  in  the  next.  Inflation  will  remain  moderate;  consumer  prices  level  will  increase  by  1.3%  in  this  year  and  1.4%  in  the  next. The fiscal balance will still show a surplus, but the latter will become smaller over the forecast horizon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Table international forecast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Read the full text &lt;a href=&#34;http://www.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_2-2019.pdf&#34; target=&#34;_blank&#34;&gt;here (in German)&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The regime-dependent evolution of credibility: a fresh look at Hong Kong&#39;s linked exchange rate system</title>
+      <link>/publication/2019_md/</link>
+      <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
+      <guid>/publication/2019_md/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Summer 2019: RWI economic forecast</title>
-      <link>/post/2019_06_18/</link>
-      <pubDate>Tue, 18 Jun 2019 11:00:00 +0200</pubDate>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>/post/2019_06_18/</guid>
-      <description>&lt;p&gt;The June 2019 RWI &amp;ndash; Leibniz Institute for Economic Research forecasts update for Germany has been published. We have revised our forecast downward slightly and now expect output growth for Germany of 0.8% (down from 0.9%) for 2019 and 1.4% GDP growth for 2020 (down from 1.5%). &lt;a href=&#34;/publication/2019_kb_q2/&#34;&gt;See the publication here&lt;/a&gt; or have a look directly at the &lt;a href=&#34;http://www.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_2-2019.pdf&#34; target=&#34;_blank&#34;&gt;document&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spring Joint Economic Forecast 2019</title>
-      <link>/post/2019_04_04/</link>
-      <pubDate>Thu, 04 Apr 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/post/2019_04_04/</guid>
-      <description>&lt;p&gt;The Spring Joint Economic Forecast has been published!&lt;/p&gt;
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
 
-&lt;p&gt;&lt;a href=&#34;/publication/2019_gd_q1/&#34;&gt;See the publication here.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Joint Economic Forecast Spring 2019: Significant cooling of the economy - political risks high</title>
-      <link>/publication/2019_gd_q1/</link>
-      <pubDate>Thu, 04 Apr 2019 09:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_gd_q1/</guid>
-      <description>&lt;p&gt;Read the RWI press release  &lt;a href=&#34;http://www.rwi-essen.de/presse/mitteilung/351/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; or have a look at the full text &lt;a href=&#34;http://www.rwi-essen.de/media/content/pages/publikationen/gemeinschaftsdiagnose/gd_1-2019.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Financial Crises in the 21-st century</title>
-      <link>/teaching/jacobs_ss_19/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/jacobs_ss_19/</guid>
-      <description>
-
-&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt;  Friday, 05.04.2019 9:45 to 18:30
-           Friday, 26.04.2019 11:15 to 18:30
-           Saturday, 26.04.2019 9:45 to 18:30&lt;/p&gt;
-
-&lt;p&gt;​
-&lt;strong&gt;Where:&lt;/strong&gt;   West Hall&lt;/p&gt;
-
-&lt;p&gt;​
-&lt;strong&gt;Material:&lt;/strong&gt; In campus net.&lt;/p&gt;
-
-&lt;p&gt;​Mainstream economics is about isolating key questions that may be analysed in a theoretical framework. In practice the economy is an extremely complex global phenomenon, where everything happens as an outcome of the interaction of millions of people. The goal of this course is to provide a bridge between the theory and practice in economics from the perspective of the global financial crisis. By employing knowledge from various aspects of economics, as they are presented in the first and second years of study you will learn: (i) How even the most basic macroeconomic model can describe the challenges faced by the policy-makers throughout the global financial crisis. (ii) How the crisis unfolded and what made it different than previous economic downturns. (iii) How and why the different countries reacted differently to the crisis, what “unconventional monetary policy” is and how that might be the future of policy-makers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New RWI economic forecasts</title>
-      <link>/post/2019_03_12/</link>
-      <pubDate>Tue, 12 Mar 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/post/2019_03_12/</guid>
-      <description>&lt;p&gt;The March 2019 RWI &amp;ndash; Leibniz institute for economic research forecasts for the international and the German economies have been published. &lt;a href=&#34;/publication/2019_kb_q1/&#34;&gt;See the publication here.&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Economic Analysis</title>
-      <link>/project/bca/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/bca/</guid>
-      <description>&lt;p&gt;Below you will find a collection of my economic research. I have dealt mostly with understanding the effects of economic crises on the economy through the pricing of risk in interest rates, as well as economic uncertainty.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>March 2019: Global economy on the decline</title>
-      <link>/publication/2019_kb_q1/</link>
-      <pubDate>Mon, 11 Mar 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2019_kb_q1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The pace of global economic expansion continued to decline at the beginning of this year. The slowdown continued in the manufacturing sector in particular, which had already lost momentum in the past year. In the final quarter of the year, overall economic production expanded at a somewhat slower pace, particularly in the two major economies USA and China. In the Euro Area, it rose at the same rate as in the previous quarter. In Japan, demand expanded again in the final quarter after a temporary decline. Against this backdrop, corporate sentiment continued to deteriorate at the beginning of the year. As a result, the possibility of an impending recession is more frequently discussed in the media. This was particularly noticeable at the turn of the year 2018&amp;ndash;2019. After that, these fears seem to have lessened somewhat.&lt;/p&gt;
-
-&lt;p&gt;A number of supporting factors lead to the assessment that the global economy will weaken but not slide into recession. From a sector perspective, the fact that the increasingly important service sector is still expanding quite strongly worldwide does not  indicate that we approach an end of the upswing. In addition, purchasing power is increasing due to the decline in crude oil prices at the end of last year.&lt;/p&gt;
-
-&lt;p&gt;In view of the slowing pace of the economic expansion and lower inflation, at least in the short term, the central banks have decelerated the pace of monetary tightening somewhat. By contrast, the orientation of fiscal policy varies across countries. In the USA, the impulses from the tax cuts are easing which tends to dampen economic demand. In Japan and China, by contrast, public spending is even planned to increase.&lt;/p&gt;
-
-&lt;p&gt;Global economic expansion is likely to slow only marginally in the forecast period. The slowdown will be more pronounced in the major economies, where the upswing has been going on for some time. By contrast, it is likely to accelerate in some economies, such as Latin America. On balance, growth rates are expected to remain close to the long-term average.&lt;/p&gt;
-
-&lt;p&gt;All in all, it is expected that the expansion of the global economy will continue to slow in the forecast period. We expect global GDP to expand by 3.0% this year and by 2.8% next year. World trade is likely to expand at rates of 2.5% and 3.0% next year.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Table international forecast&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Read the full text &lt;a href=&#34;http://en.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_1-2019.pdf&#34; target=&#34;_blank&#34;&gt;here (in German)&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Presenting at the Eighth Italian  Congress of Econometrics and Empirical Economics</title>
       <link>/post/2019_01_21/</link>
-      <pubDate>Mon, 21 Jan 2019 11:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 21 Jan 2019 11:00:00 +0000</pubDate>
       <guid>/post/2019_01_21/</guid>
-      <description>&lt;p&gt;I will be attending &lt;a href=&#34;https://www.side-iea.it/events/iceee/iceee-2019&#34; target=&#34;_blank&#34;&gt;ICEEE 2019&lt;/a&gt; conference in Lecce, Italy where I will present my paper &lt;a href=&#34;/publication/2018_eru/&#34;&gt;Exchange rate uncertainty and import prices in the euro area&lt;/a&gt; on &lt;strong&gt;Friday, the 25-th&lt;/strong&gt;. My talk will take place in &lt;strong&gt;Room 3&lt;/strong&gt; of Building 6 (Campus Studium 2000) in the session from &lt;strong&gt;14:30 to 16:10&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;I have created a calendar &lt;code&gt;.ics&lt;/code&gt; file which mimics page 3 from the &lt;a href=&#34;https://www.side-iea.it/sites/side-iea.it/files/iceee2019lecce_final_program.pdf&#34; target=&#34;_blank&#34;&gt;program&lt;/a&gt;. You may import it in your calendar app and add the Rooms to the sessions that you want to attend. The events have &lt;em&gt;no&lt;/em&gt; notifications by default.&lt;/p&gt;
-
-&lt;p&gt;Download the .ics &lt;a href=&#34;ICEEE2019.ics&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I will be attending 
+&lt;a href=&#34;https://www.side-iea.it/events/iceee/iceee-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICEEE 2019&lt;/a&gt; conference in Lecce, Italy where I will present my paper 
+&lt;a href=&#34;/publication/2018_eru/&#34;&gt;Exchange rate uncertainty and import prices in the euro area&lt;/a&gt; on &lt;strong&gt;Friday, the 25-th&lt;/strong&gt;. My talk will take place in &lt;strong&gt;Room 3&lt;/strong&gt; of Building 6 (Campus Studium 2000) in the session from &lt;strong&gt;14:30 to 16:10&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I have created a calendar &lt;code&gt;.ics&lt;/code&gt; file which mimics page 3 from the 
+&lt;a href=&#34;https://www.side-iea.it/sites/side-iea.it/files/iceee2019lecce_final_program.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;program&lt;/a&gt;. You may import it in your calendar app and add the Rooms to the sessions that you want to attend. The events have &lt;em&gt;no&lt;/em&gt; notifications by default.&lt;/p&gt;
+&lt;p&gt;Download the .ics 
+&lt;a href=&#34;ICEEE2019.ics&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After you have successfully imported it should look like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;Calendar_img.png&#34; alt=&#34;Program overview for ICEEE 2019&#34; title=&#34;Program overview for ICEEE 2019&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Calendar_img.png&#34; alt=&#34;Program overview for ICEEE 2019&#34; title=&#34;Program overview for ICEEE 2019&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Welcome to my new website</title>
-      <link>/post/post_1/</link>
-      <pubDate>Fri, 18 Jan 2019 10:00:00 +0100</pubDate>
-      
-      <guid>/post/post_1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Hello from my new webpage!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I am migrating from my &lt;a href=&#34;www.borisblagov.wixsite.com/home&#34; target=&#34;_blank&#34;&gt;wix website&lt;/a&gt;. My previous webpage was rather slow and resource intensive and most of all updating anything required quite a bit of effort on my part. This website is built with &lt;a href=&#34;www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and is a pleasure to make, so I am confident that I can stay on schedule with updating this one.&lt;/p&gt;
-
-&lt;p&gt;Shoutout to the creator of the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;theme&lt;/a&gt; - &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
+      <link>/publication/2018_ee/</link>
+      <pubDate>Wed, 02 May 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/2018_ee/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Joint Economic Forecast </title>
-      <link>/project/gd/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/gd/</guid>
-      <description>&lt;p&gt;The Joint Economic Forecast is prepared bi-annually in spring and in autumn on behalf of the Federal Ministry for Economic Affairs and Energy. The forecast is prepared by:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;German Institute for Economic Research (DIW Berlin)&lt;/li&gt;
-&lt;li&gt;ifo Institute - Leibniz Institute for Economic Research at the University of Munich in cooperation with the KOF Swiss Economic Institute – ETH Zurich&lt;/li&gt;
-&lt;li&gt;Kiel Institute for the World Economy (IfW)&lt;/li&gt;
-&lt;li&gt;Halle Institute for Economic Research (IWH) – Member of the Leibniz Association&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rwi-essen.de&#34; target=&#34;_blank&#34;&gt;RWI – Leibniz Institute for Economic Research&lt;/a&gt; in cooperation with the Institute for Advanced Studies in Vienna&lt;/li&gt;
-&lt;/ul&gt;
+      <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
+      <link>/publication/2016_ob/</link>
+      <pubDate>Wed, 06 Jul 2016 11:00:00 +0100</pubDate>
+      <guid>/publication/2016_ob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the time-variation in euro area lending spreads</title>
+      <link>/publication/2015_bis/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_bis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

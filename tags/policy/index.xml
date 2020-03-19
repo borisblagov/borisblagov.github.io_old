@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy | Boris Blagov</title>
+    <link>/tags/policy/</link>
+      <atom:link href="/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Policy</title>
+      <link>/tags/policy/</link>
+    </image>
+    
+    <item>
+      <title>Joint Economic Forecast 2016--2020</title>
+      <link>/project/2020_gemeinschaftsdiagnose/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/2020_gemeinschaftsdiagnose/</guid>
+      <description>&lt;p&gt;The Joint Economic Forecast is prepared bi-annually in spring and in autumn on behalf of the Federal Ministry for Economic Affairs and Energy. The forecast is prepared by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German Institute for Economic Research (DIW Berlin)&lt;/li&gt;
+&lt;li&gt;ifo Institute - Leibniz Institute for Economic Research at the University of Munich in cooperation with the KOF Swiss Economic Institute – ETH Zurich&lt;/li&gt;
+&lt;li&gt;Kiel Institute for the World Economy (IfW)&lt;/li&gt;
+&lt;li&gt;Halle Institute for Economic Research (IWH) – Member of the Leibniz Association&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://rwi-essen.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RWI – Leibniz Institute for Economic Research&lt;/a&gt; in cooperation with the Institute for Advanced Studies in Vienna&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project duration:&lt;/strong&gt; 2016&amp;ndash;2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding body:&lt;/strong&gt; Federal Ministry of Economics and Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RWI Business Cycle Forecasts</title>
+      <link>/project/rwi_forecasts/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/rwi_forecasts/</guid>
+      <description>&lt;p&gt;The RWI &amp;ndash; Leibniz Institute for Economic Research conducts a quarterly analysis of the business cycle developments in Germany and the world economy since 1954. This analysis includes a detailed forecast for the international economy bi-annually, in March and September.&lt;/p&gt;
+&lt;p&gt;We are a team of experts with years of experience (for some members - decades) and we use cutting edge methods to create a thorough economic forecast for Germany and over 30 other countries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

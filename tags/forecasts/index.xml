@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>forecasts on Boris Blagov</title>
+    <title>Forecasts | Boris Blagov</title>
     <link>/tags/forecasts/</link>
-    <description>Recent content in forecasts on Boris Blagov</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 11:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/tags/forecasts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Latest international and German RWI forecasts: September 2019</title>
-      <link>/post/2019_09_11/</link>
-      <pubDate>Wed, 11 Sep 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/post/2019_09_11/</guid>
-      <description>The latest RWI &amp;ndash; Leibniz Institute for Economic Research forecasts for the international economy and Germany is from September 2019. See the publication here or have a look at the full [document] in German(http://www.rwi-essen.de/media/content/pages/publikationen/rwi-konjunkturberichte/rwi-kb_3-2019.pdf).</description>
-    </item>
+      <atom:link href="/tags/forecasts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forecasts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Forecasts</title>
+      <link>/tags/forecasts/</link>
+    </image>
     
     <item>
-      <title>Summer 2019: RWI economic forecast</title>
-      <link>/post/2019_06_18/</link>
-      <pubDate>Tue, 18 Jun 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/post/2019_06_18/</guid>
-      <description>The June 2019 RWI &amp;ndash; Leibniz Institute for Economic Research forecasts update for Germany has been published. We have revised our forecast downward slightly and now expect output growth for Germany of 0.8% (down from 0.9%) for 2019 and 1.4% GDP growth for 2020 (down from 1.5%). See the publication here or have a look directly at the document.</description>
-    </item>
-    
-    <item>
-      <title>Spring Joint Economic Forecast 2019</title>
-      <link>/post/2019_04_04/</link>
-      <pubDate>Thu, 04 Apr 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/post/2019_04_04/</guid>
-      <description>The Spring Joint Economic Forecast has been published!
-See the publication here.</description>
-    </item>
-    
-    <item>
-      <title>New RWI economic forecasts</title>
-      <link>/post/2019_03_12/</link>
-      <pubDate>Tue, 12 Mar 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/post/2019_03_12/</guid>
-      <description>The March 2019 RWI &amp;ndash; Leibniz institute for economic research forecasts for the international and the German economies have been published. See the publication here..</description>
+      <title>Economic development abroad: COVID-19 keeps the world economy in suspense</title>
+      <link>/forecast/forecast_kb_20_1/</link>
+      <pubDate>Thu, 19 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_kb_20_1/</guid>
+      <description></description>
     </item>
     
   </channel>

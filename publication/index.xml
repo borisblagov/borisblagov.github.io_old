@@ -1,107 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Boris Blagov</title>
+    <title>Publications | Boris Blagov</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Boris Blagov</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>September 2019: Global economic downturn continues</title>
-      <link>/publication/2019_kb_q3/</link>
-      <pubDate>Wed, 11 Sep 2019 11:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_kb_q3/</guid>
-      <description>Summary
-The economic development has differed across sectors. While service sectors are still expanding quite robustly, the weakness of eco-nomic growth can be attributed to manufacturing. Economic policy is likely to have contributed to this slowdown.
-The trade conflict between the USA and China has intensified in recent months, despite temporary signs of a de-escalation. The US has either already increased customs duties on many goods from China or pledged to do so in the future.</description>
-    </item>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 11:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
-      <title>Exchange rate uncertainty and import prices in the euro area</title>
+      <title>Exchange rate uncertainty and import prices in the euro</title>
       <link>/publication/2019_eru/</link>
       <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
-      
       <guid>/publication/2019_eru/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>June 2019: The German economy loses momentum</title>
-      <link>/publication/2019_kb_q2/</link>
-      <pubDate>Tue, 18 Jun 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2019_kb_q2/</guid>
-      <description>Summary
-After having stagnated in the second half of 2018 GDP growth gained momentum in the first quarter of 2019. However, leading indicators such as business confidence and new orders suggest that growth rates will recede in the rest of this year. Domestic demand is expected to continue growing owed to incomes improving further. On the other hand, foreign demand will have a dampening effect on the German economy, since trade policy has taken a more protectionist stance in many countries.</description>
-    </item>
-    
-    <item>
-      <title>Joint Economic Forecast Spring 2019: Significant cooling of the economy - political risks high</title>
-      <link>/publication/2019_gd_q1/</link>
-      <pubDate>Thu, 04 Apr 2019 09:00:00 +0200</pubDate>
-      
-      <guid>/publication/2019_gd_q1/</guid>
-      <description>Read the RWI press release here or have a look at the full text here.</description>
-    </item>
-    
-    <item>
-      <title>March 2019: Global economy on the decline</title>
-      <link>/publication/2019_kb_q1/</link>
-      <pubDate>Mon, 11 Mar 2019 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2019_kb_q1/</guid>
-      <description>Summary
-The pace of global economic expansion continued to decline at the beginning of this year. The slowdown continued in the manufacturing sector in particular, which had already lost momentum in the past year. In the final quarter of the year, overall economic production expanded at a somewhat slower pace, particularly in the two major economies USA and China. In the Euro Area, it rose at the same rate as in the previous quarter.</description>
-    </item>
-    
-    <item>
-      <title>December 2018: German economy under the sign of the automotive industry</title>
-      <link>/publication/2018_kb_q4/</link>
-      <pubDate>Mon, 17 Dec 2018 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018_kb_q4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Economic Forecast Autumn 2018: Upturn Loses Momentum</title>
-      <link>/publication/2018_gd_q3/</link>
-      <pubDate>Thu, 27 Sep 2018 11:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018_gd_q3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The regime-dependent evolution of credibility: a fresh look at Hong Kong&#39;s linked exchange rate system</title>
-      <link>/publication/2018_md/</link>
-      <pubDate>Sun, 01 Apr 2018 16:36:53 +0100</pubDate>
-      
-      <guid>/publication/2018_md/</guid>
+      <link>/publication/2019_md/</link>
+      <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
+      <guid>/publication/2019_md/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
-      <link>/publication/2017_ee/</link>
-      <pubDate>Sun, 09 Apr 2017 10:00:00 +0100</pubDate>
-      
-      <guid>/publication/2017_ee/</guid>
+      <link>/publication/2018_ee/</link>
+      <pubDate>Wed, 02 May 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/2018_ee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
       <link>/publication/2016_ob/</link>
-      <pubDate>Wed, 06 Jul 2016 16:36:53 +0100</pubDate>
-      
+      <pubDate>Wed, 06 Jul 2016 11:00:00 +0100</pubDate>
       <guid>/publication/2016_ob/</guid>
       <description></description>
     </item>
@@ -109,10 +47,16 @@ The pace of global economic expansion continued to decline at the beginning of t
     <item>
       <title>Modelling the time-variation in euro area lending spreads</title>
       <link>/publication/2015_bis/</link>
-      <pubDate>Sun, 01 Nov 2015 16:36:53 +0100</pubDate>
-      
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
       <guid>/publication/2015_bis/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

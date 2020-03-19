@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic volatility | Boris Blagov</title>
+    <link>/tags/stochastic-volatility/</link>
+      <atom:link href="/tags/stochastic-volatility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic volatility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 11:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Stochastic volatility</title>
+      <link>/tags/stochastic-volatility/</link>
+    </image>
+    
+    <item>
+      <title>Exchange rate uncertainty and import prices in the euro</title>
+      <link>/publication/2019_eru/</link>
+      <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
+      <guid>/publication/2019_eru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
+      <link>/publication/2018_ee/</link>
+      <pubDate>Wed, 02 May 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/2018_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
+      <link>/publication/2016_ob/</link>
+      <pubDate>Wed, 06 Jul 2016 11:00:00 +0100</pubDate>
+      <guid>/publication/2016_ob/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

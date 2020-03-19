@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boris Blagov</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boris Blagov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Boris Blagov</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Economic development abroad: COVID-19 keeps the world economy in suspense</title>
+      <link>/forecast/forecast_kb_20_1/</link>
+      <pubDate>Thu, 19 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_kb_20_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange rate uncertainty and import prices in the euro</title>
+      <link>/publication/2019_eru/</link>
+      <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
+      <guid>/publication/2019_eru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The regime-dependent evolution of credibility: a fresh look at Hong Kong&#39;s linked exchange rate system</title>
+      <link>/publication/2019_md/</link>
+      <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
+      <guid>/publication/2019_md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting at the Eighth Italian  Congress of Econometrics and Empirical Economics</title>
+      <link>/post/2019_01_21/</link>
+      <pubDate>Mon, 21 Jan 2019 11:00:00 +0000</pubDate>
+      <guid>/post/2019_01_21/</guid>
+      <description>&lt;p&gt;I will be attending 
+&lt;a href=&#34;https://www.side-iea.it/events/iceee/iceee-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICEEE 2019&lt;/a&gt; conference in Lecce, Italy where I will present my paper 
+&lt;a href=&#34;/publication/2018_eru/&#34;&gt;Exchange rate uncertainty and import prices in the euro area&lt;/a&gt; on &lt;strong&gt;Friday, the 25-th&lt;/strong&gt;. My talk will take place in &lt;strong&gt;Room 3&lt;/strong&gt; of Building 6 (Campus Studium 2000) in the session from &lt;strong&gt;14:30 to 16:10&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I have created a calendar &lt;code&gt;.ics&lt;/code&gt; file which mimics page 3 from the 
+&lt;a href=&#34;https://www.side-iea.it/sites/side-iea.it/files/iceee2019lecce_final_program.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;program&lt;/a&gt;. You may import it in your calendar app and add the Rooms to the sessions that you want to attend. The events have &lt;em&gt;no&lt;/em&gt; notifications by default.&lt;/p&gt;
+&lt;p&gt;Download the .ics 
+&lt;a href=&#34;ICEEE2019.ics&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After you have successfully imported it should look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Calendar_img.png&#34; alt=&#34;Program overview for ICEEE 2019&#34; title=&#34;Program overview for ICEEE 2019&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
+      <link>/publication/2018_ee/</link>
+      <pubDate>Wed, 02 May 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/2018_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
+      <link>/publication/2016_ob/</link>
+      <pubDate>Wed, 06 Jul 2016 11:00:00 +0100</pubDate>
+      <guid>/publication/2016_ob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the time-variation in euro area lending spreads</title>
+      <link>/publication/2015_bis/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_bis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

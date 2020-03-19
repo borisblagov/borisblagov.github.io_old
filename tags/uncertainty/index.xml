@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uncertainty on Boris Blagov</title>
+    <title>Uncertainty | Boris Blagov</title>
     <link>/tags/uncertainty/</link>
-    <description>Recent content in Uncertainty on Boris Blagov</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 11:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uncertainty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 11:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Uncertainty</title>
+      <link>/tags/uncertainty/</link>
+    </image>
     
     <item>
-      <title>Exchange rate uncertainty and import prices in the euro area</title>
+      <title>Exchange rate uncertainty and import prices in the euro</title>
       <link>/publication/2019_eru/</link>
       <pubDate>Fri, 16 Aug 2019 11:00:00 +0100</pubDate>
-      
       <guid>/publication/2019_eru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial crises and time-varying risk premia in a small open economy: a Markov-switching DSGE model for Estonia</title>
+      <link>/publication/2018_ee/</link>
+      <pubDate>Wed, 02 May 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/2018_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The credibility of Hong Kong&#39;s currency board system: looking through the prism of MS‐VAR models with time‐varying transition probabilities</title>
+      <link>/publication/2016_ob/</link>
+      <pubDate>Wed, 06 Jul 2016 11:00:00 +0100</pubDate>
+      <guid>/publication/2016_ob/</guid>
       <description></description>
     </item>
     

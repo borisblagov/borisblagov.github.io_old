@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Micheli | Boris Blagov</title>
+    <link>/authors/martin-micheli/</link>
+      <atom:link href="/authors/martin-micheli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Micheli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Martin Micheli</title>
+      <link>/authors/martin-micheli/</link>
+    </image>
+    
+    <item>
+      <title>Economic development abroad: COVID-19 keeps the world economy in suspense</title>
+      <link>/forecast/forecast_kb_20_1/</link>
+      <pubDate>Thu, 19 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_kb_20_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy work | Boris Blagov</title>
+    <link>/tags/policy-work/</link>
+      <atom:link href="/tags/policy-work/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policy work</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Policy work</title>
+      <link>/tags/policy-work/</link>
+    </image>
+    
+    <item>
+      <title>Scientific advisory for the Federal Ministry of Economics and Technology</title>
+      <link>/project/2019_output_gap/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/2019_output_gap/</guid>
+      <description>&lt;p&gt;Scientific advisory for the German delegation from the Federal Ministry of Economics and Technology at the Output gap working group in the European Union.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project duration:&lt;/strong&gt; 2018&amp;ndash;2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding body:&lt;/strong&gt; Federal Ministry of Economics and Technology&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

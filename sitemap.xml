@@ -1,413 +1,274 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>/teaching/unidue_ws_19_20/</loc>
-      <lastmod>2019-09-25T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/teaching/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/2019_09_11/</loc>
-      <lastmod>2019-09-11T11:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/teaching/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2019_kb_q3/</loc>
-      <lastmod>2019-09-11T11:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/teaching/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2019_eru/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2019_kb_q2/</loc>
-      <lastmod>2019-06-18T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/2019_06_18/</loc>
-      <lastmod>2019-06-18T11:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/2019_04_04/</loc>
-      <lastmod>2019-04-04T11:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2019_gd_q1/</loc>
-      <lastmod>2019-04-04T09:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/9/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/teaching/jacobs_ss_19/</loc>
-      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/2019_03_12/</loc>
-      <lastmod>2019-03-12T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/daniela-grozea-helmenstein/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/bca/</loc>
-      <lastmod>2019-03-12T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/forecast/forecast_kb_20_1/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2019_kb_q1/</loc>
-      <lastmod>2019-03-11T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/forecasts/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/2019_01_21/</loc>
-      <lastmod>2019-01-21T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/forecast/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/post_1/</loc>
-      <lastmod>2019-01-18T10:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/klaus-weyerstra%C3%9F/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/gd/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/martin-micheli/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/bcf/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/philipp-jager/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/teaching/unidue_ws_18_19/</loc>
-      <lastmod>2019-01-14T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2018_kb_q4/</loc>
-      <lastmod>2018-12-17T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/roland-dohrn/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2018_gd_q3/</loc>
-      <lastmod>2018-09-27T11:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2018_md/</loc>
-      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/completed/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2017_ee/</loc>
-      <lastmod>2017-04-09T10:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/current/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/talk/2018_17_12_kb_2018_q4/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/project/2020_gemeinschaftsdiagnose/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/policy/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/policy-work/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2016_ob/</loc>
-      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/research/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication/2015_bis/</loc>
-      <lastmod>2015-11-01T16:36:53+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/project/rwi_forecasts/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/teaching/</loc>
-      <lastmod>2019-09-25T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/project/2019_output_gap/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/research_unc/</loc>
+    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication_types/8/</loc>
-      <lastmod>2019-09-11T11:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/dsge/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2019_eru/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/dsge/</loc>
-      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/international-economics/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/forecast/</loc>
-      <lastmod>2019-01-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/markov-switching/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/categories/forecasts/</loc>
-      <lastmod>2019-09-11T11:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/michael-funke/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/markov-switching/</loc>
-      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-03-12T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/stochastic-volatility/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2019_md/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/categories/research/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/uncertainty/</loc>
+    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/research/</loc>
-      <lastmod>2019-03-12T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/teaching/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-04-01T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/conferences/</loc>
+    <lastmod>2019-01-21T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/uncertainty/</loc>
-      <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-01-21T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/var/</loc>
-      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/2019_01_21/</loc>
+    <lastmod>2019-01-21T11:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/conferences/</loc>
-      <lastmod>2019-01-21T11:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2018_ee/</loc>
+    <lastmod>2018-05-02T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/forecasts/</loc>
-      <lastmod>2019-09-11T11:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2016_ob/</loc>
+    <lastmod>2016-07-06T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
-      <lastmod>2019-01-18T10:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/var/</loc>
+    <lastmod>2016-07-06T11:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>/tags/interest-rate-premia/</loc>
-      <lastmod>2016-07-06T16:36:53+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ecb/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/interest-rate-pass-through/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015_bis/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richhild-moessner/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
   
 </urlset>
