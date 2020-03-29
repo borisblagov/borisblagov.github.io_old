@@ -77,11 +77,135 @@
     </item>
     
     <item>
+      <title>The effects of COVID-19 on the Italian economy</title>
+      <link>/post/2020_03_29/</link>
+      <pubDate>Sun, 29 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>/post/2020_03_29/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Disclaimer: This is a loose translation of the analysis &amp;ldquo;The effects of COVID-19 on the Italian economy&amp;rdquo; which was published in the RWI Spring international forecast. The analysis was finalized on the 19th of March 2020 and therefore does not newer developments. This translation is my own and is therefore not affiliated with RWI - Leibniz Institute for economic research in any way.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;In the 
+&lt;a href=&#34;/forecast/forecast_kb_20_1/&#34;&gt;RWI Spring forecast of 2020&lt;/a&gt; we analysed the effects of nationwide lockdown in Italy on its economy. Italy was, at the time, the hardest hit economy by the new strand of coronavirus. The high number of deaths compared to the number of confirmed infections suggested that COVID-19 has remained undiscovered for some time. Thus, it may very well be that a portion of the population might be carrying the virus unbeknownst to them. Therefore, the Italian government introduced a number of stringent measures in order to contain the virus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On the 3-th March Italy ordered the temporary closure of schools and universities until 15 March. It is also advised to cancel or postpone all major public meetings until 3 April.&lt;/li&gt;
+&lt;li&gt;On the 8-th March, large parts of northern Italy, such as Lombardy and 14 other provinces, were quarantined, also until 3 April. These measures were later extended to the whole country.&lt;/li&gt;
+&lt;li&gt;Since 11-th March all shops except grocery stores remain closed&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;After the publication of the forecast Italy has introduced a total lockdown of the country&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The measures are likely to have a massive impact on the Italian economy. In addition to quarantine, the tourism sector, which accounts for 13% of Italy&amp;rsquo;s GDP and employs 8 million people, will continue to suffer from the effects of the virus even after the quarantine measures have ended.&lt;/p&gt;
+&lt;h2 id=&#34;modelling-strategy&#34;&gt;Modelling strategy&lt;/h2&gt;
+&lt;p&gt;To estimate the economic effects of these drastic measures, we use a cutting edge econometric model, namely, a mixed-frequency VAR (MF-VAR) model analogous to Schorfheide and Song (2015) (for a brief description see also Döhrn et al. 2018).&lt;/p&gt;
+&lt;p&gt;We capture the effects in the following manner. First we choose a range of economic variables that cover all areas of the Italian economy where possible. Then&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Using data &lt;strong&gt;prior&lt;/strong&gt; to the outbreak we do a forecast for Gross domestic product and Personal consumption. This is our &lt;strong&gt;counterfactual scenario&lt;/strong&gt; - what would have happened if COVID-19 did not paralyse the economy.&lt;/li&gt;
+&lt;li&gt;Making an educated guess regarding the developments of key variables under the current circumstances, create a new forecast. This is our &lt;strong&gt;Covid-19 scenario&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The difference between the two is our expectation of the effects.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The model includes three quarterly variables and twelve monthly indicators. These have been selected to cover all areas of the Italian economy where possible. Specifically, the following variables are used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Production: GDP (quarterly), gross fixed capital formation (quarterly), industrial production and new orders&lt;/li&gt;
+&lt;li&gt;Survey-based measures:  IHS Markit Purchasing Managers Index, Economic Sentiment Index and Industrial Confidence Index&lt;/li&gt;
+&lt;li&gt;Preise: Consumer Price Index and Producer Price index&lt;/li&gt;
+&lt;li&gt;Labour market: Unemployment rate and Employment&lt;/li&gt;
+&lt;li&gt;Consumption: Private Consumption (quarterly), Retail Sales and New car registration&lt;/li&gt;
+&lt;li&gt;Tourism: Number of tourist arrivals and number of hotel nights
+Data used are from 2000 onwards. Monthly data are available until December 2019 and January 2020 respectively, survey results are already available until February 2020. Quarterly variables extend to the fourth quarter of 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;establishing-the-counterfactual-scenario-without-covid-19&#34;&gt;Establishing the counterfactual scenario (without COVID-19)&lt;/h2&gt;
+&lt;p&gt;The available data do not currently cover the period from the outbreak of the COVID-19 epidemic in Italy, so the data are suitable for counterfactual nowcasting, using the model to make forecasts for all variables, which represent a hypothetical alternative scenario of a development that would have occurred if Italy had not been covered by COVID-19. The forecasts are shown in red on the figures below. Industrial production falls slightly in February, but then recovers again. The upward trend in tourist arrivals continues. The number of overnight stays is also gradually increasing. These forecasts, together with the already available strong growth in industrial production in January, suggest that GDP will expand by 0.2% in the first quarter. For the remainder of the forecast period, there will be a slower increase in overall economic activity for the rest of the year.  Overall, this alternative scenario results in &lt;strong&gt;an annual average increase in GDP of 0.2%&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-effects-of-covid-19-on-the-italian-economy&#34;&gt;The effects of COVID-19 on the Italian economy&lt;/h2&gt;
+&lt;p&gt;In view of the latest developments in Italy - confirmed COVID-19 cases in all regions, quarantine in Northern Italy and a general travel ban as well as the cancellation of major events and store closures - we assume the following assumptions regarding the current economic development&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The number of international arrivals and overnight stays will fall sharply by 75% for March and April and will not begin to recover until May. We attribute the remaining 25% of international arrivals to necessary travel.&lt;/li&gt;
+&lt;li&gt;The level of industrial production plummets, is 20% lower in March than in January, and remains unchanged in April.&lt;/li&gt;
+&lt;li&gt;Car registrations fall by 50% in March and, like industrial production, remain at this level for another month.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We plot those assumptions on Figure 1.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-assumptions-on-the-effects-of-covid-19-on-industrial-production-new-arrivals-overnight-stays-and-car-registrations-red-and-conuterfactual-scenario-blue&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020_03_29/Counterfactual_monthly_hucf9f698f86d3e3474f67e127bd9f783a_79868_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Assumptions on the effects of COVID-19 on industrial production, new arrivals, overnight stays and car registrations (red) and conuterfactual scenario (blue).&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020_03_29/Counterfactual_monthly_hucf9f698f86d3e3474f67e127bd9f783a_79868_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;990&#34; height=&#34;720&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Assumptions on the effects of COVID-19 on industrial production, new arrivals, overnight stays and car registrations (red) and conuterfactual scenario (blue).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Based on the experience of the quarantine measures taken in China (Wu &amp;amp; McGoogan 2020), we expect the situation to return to normal from May onwards. In the following three months there will be a return to the original level of the four variables. In tourism, the level of both variables remains about 5% below the counterfactual scenario in the summer. With the help of an MF-VAR these variables are forecast for the period from October 2020 onwards. In Figure 1, the developments are shown in blue. An overshoot over the values of the counterfactual scenario is to be expected for industrial production and car registrations. Figure 2 shows the model forecasts for GDP and private consumption. If the virus had not spread, both aggregates would have risen at decreasing rates, but consistently. Under the assumptions made here, the spread of COVID-19 is likely to reduce real GDP and private consumption significantly in the first half of the year. In the second half of the year, expansion rates should then be well above potential rates due to catch-up effects. All in all, the overall economic activity in Italy is expected to decline by 2.4% this year. In contrast, GDP and consumer spending will rise by 0.2% in the alternative scenario, while private consumption is likely to decline by 0.9% in 2020. This results in a &lt;strong&gt;negative GDP effect of COVID-19 of about 2.6% on GDP&lt;/strong&gt; and &lt;strong&gt;1.1% on private consumption.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-effects-of-covid-19-on-gross-domestic-product-left-and-personal-consumption-right-in-red-versus-the-counterfactual-scernaio-in-blue&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020_03_29/Counterfactual_quarterly_huec9bf4dd4d8a28bb6ab0a400a955fcf1_60371_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The effects of COVID-19 on Gross domestic product (left) and Personal consumption (right) in red versus the counterfactual scernaio in blue.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020_03_29/Counterfactual_quarterly_huec9bf4dd4d8a28bb6ab0a400a955fcf1_60371_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;720&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    The effects of COVID-19 on Gross domestic product (left) and Personal consumption (right) in red versus the counterfactual scernaio in blue.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Economic development abroad: COVID-19 keeps the world economy in suspense</title>
       <link>/forecast/forecast_kb_20_1/</link>
       <pubDate>Thu, 19 Mar 2020 11:00:00 +0000</pubDate>
       <guid>/forecast/forecast_kb_20_1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Since early 2020, the world economy is in the grip of the COVID-19 pandemic. Initially, Asia  was  particularly  affected.  In  China,  economic  activity  declined  significantly.  The shock transmitted to other Asian countries via value chains. Some countries were affected by the absence of Chinese tourists. Since February, the corona virus also spread in Europe and the USA at such a pace that some countries took drastic measures to contain the pandemic. A curfew was imposed in many European countries and trade activities were reduced to basic supplies. In addition, many countries have closed their borders to passenger traffic and suspended air traffic. All this is severely restricting economic activity.&lt;/p&gt;
+</description>
     </item>
     
     <item>

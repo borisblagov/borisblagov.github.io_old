@@ -38,12 +38,32 @@
   </url>
   
   <url>
-    <loc>/publication_types/9/</loc>
+    <loc>/authors/</loc>
     <lastmod>2020-03-19T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/tags/forecasts/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-03-29T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020_03_29/</loc>
+    <lastmod>2019-03-29T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/9/</loc>
     <lastmod>2020-03-19T11:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +74,6 @@
   
   <url>
     <loc>/forecast/forecast_kb_20_1/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/forecasts/</loc>
     <lastmod>2020-03-19T11:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +104,6 @@
   
   <url>
     <loc>/authors/roland-dohrn/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-03-19T11:00:00+00:00</lastmod>
   </url>
   
@@ -214,11 +224,6 @@
   
   <url>
     <loc>/tags/conferences/</loc>
-    <lastmod>2019-01-21T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2019-01-21T11:00:00+00:00</lastmod>
   </url>
   
