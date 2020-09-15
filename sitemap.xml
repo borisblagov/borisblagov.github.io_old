@@ -34,26 +34,66 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-04-01T11:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/9/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-01T11:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniela-grozea-helmenstein/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/forecast/forecast_kb_20_3/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/forecasts/</loc>
-    <lastmod>2020-04-01T11:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-01T11:00:00+00:00</lastmod>
+    <loc>/forecast/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/klaus-weyerstra%C3%9F/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-micheli/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/philipp-jager/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-04-01T11:00:00+00:00</lastmod>
   </url>
   
@@ -63,42 +103,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/9/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniela-grozea-helmenstein/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/forecast/forecast_kb_20_1/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/forecast/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/klaus-weyerstra%C3%9F/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/martin-micheli/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/philipp-jager/</loc>
-    <lastmod>2020-03-19T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-03-19T11:00:00+00:00</lastmod>
   </url>
   
