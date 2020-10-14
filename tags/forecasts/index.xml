@@ -5,12 +5,21 @@
     <link>/tags/forecasts/</link>
       <atom:link href="/tags/forecasts/index.xml" rel="self" type="application/rss+xml" />
     <description>Forecasts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Forecasts</title>
       <link>/tags/forecasts/</link>
     </image>
+    
+    <item>
+      <title>Joint Economic Forecast Fall 2020: Recovery loses momentum -Economy and politics further under the signs of the pandemic</title>
+      <link>/forecast/forecast_gd_20_3/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_gd_20_3/</guid>
+      <description>&lt;p&gt;The global economy will contract by 4.0% this year and the rebound is expected at 5.6% in 2021. In Europe, we expect the downturn to be more severe than the world, with the current projection for the EU27 economic growth standing at -7.0%. This is due in part to the worsening outlook of the pandemic in some of the major countries, notably France, Spain and the Netherlands.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fall Forecast 2020: Global economy recovers from a historic collapse</title>
