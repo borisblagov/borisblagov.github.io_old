@@ -33,12 +33,62 @@
   </url>
   
   <url>
-    <loc>/publication_types/9/</loc>
-    <lastmod>2020-10-14T10:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dynamic-factor-model/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_em/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gabriel-arce-alfaro/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/international-economics/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stochastic-volatility/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-13T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/9/</loc>
     <lastmod>2020-10-14T10:00:00+00:00</lastmod>
   </url>
   
@@ -78,22 +128,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-10-14T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/rwi-leibniz-institute-for-economic-research-with-ihs/</loc>
     <lastmod>2020-10-14T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-14T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/current/</loc>
+    <loc>/tags/completed/</loc>
     <lastmod>2020-10-14T09:00:00+00:00</lastmod>
   </url>
   
@@ -110,11 +150,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-10-14T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,7 +198,7 @@
   </url>
   
   <url>
-    <loc>/tags/completed/</loc>
+    <loc>/tags/current/</loc>
     <lastmod>2020-03-19T09:00:00+00:00</lastmod>
   </url>
   
@@ -198,11 +233,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/dsge/</loc>
     <lastmod>2019-08-16T11:00:00+01:00</lastmod>
   </url>
@@ -213,27 +243,12 @@
   </url>
   
   <url>
-    <loc>/tags/international-economics/</loc>
-    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/markov-switching/</loc>
     <lastmod>2019-08-16T11:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/michael-funke/</loc>
-    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-08-16T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/stochastic-volatility/</loc>
     <lastmod>2019-08-16T11:00:00+01:00</lastmod>
   </url>
   
