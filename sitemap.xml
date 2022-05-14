@@ -93,6 +93,26 @@
   </url>
   
   <url>
+    <loc>/tags/current/</loc>
+    <lastmod>2020-10-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/2022_gemeinschaftsdiagnose/</loc>
+    <lastmod>2020-10-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/policy/</loc>
+    <lastmod>2020-10-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-14T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-09-15T11:00:00+00:00</lastmod>
   </url>
@@ -148,27 +168,12 @@
   </url>
   
   <url>
-    <loc>/tags/current/</loc>
-    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/2020_gemeinschaftsdiagnose/</loc>
     <lastmod>2020-03-19T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/policy/</loc>
-    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/policy-work/</loc>
-    <lastmod>2020-03-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-03-19T09:00:00+00:00</lastmod>
   </url>
   

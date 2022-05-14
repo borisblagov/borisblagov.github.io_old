@@ -82,6 +82,37 @@
       <pubDate>Wed, 14 Oct 2020 10:00:00 +0000</pubDate>
       <guid>/forecast/forecast_gd_20_3/</guid>
       <description>&lt;p&gt;The global economy will contract by 4.0% this year and the rebound is expected at 5.6% in 2021. In Europe, we expect the downturn to be more severe than the world, with the current projection for the EU27 economic growth standing at -7.0%. This is due in part to the worsening outlook of the pandemic in some of the major countries, notably France, Spain and the Netherlands.&lt;/p&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div id=&#34;pl_vars.json&#34; class=&#34;plotly&#34; style=&#34;height:400px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;pl_vars.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;pl_vars.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joint Economic Forecast 2020--2022</title>
+      <link>/project/2022_gemeinschaftsdiagnose/</link>
+      <pubDate>Wed, 14 Oct 2020 09:00:00 +0000</pubDate>
+      <guid>/project/2022_gemeinschaftsdiagnose/</guid>
+      <description>&lt;p&gt;The Joint Economic Forecast is prepared bi-annually in spring and in autumn on behalf of the Federal Ministry for Economic Affairs and Energy. The forecast is prepared by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German Institute for Economic Research (DIW Berlin)&lt;/li&gt;
+&lt;li&gt;ifo Institute - Leibniz Institute for Economic Research at the University of Munich in cooperation with the KOF Swiss Economic Institute – ETH Zurich&lt;/li&gt;
+&lt;li&gt;Kiel Institute for the World Economy (IfW)&lt;/li&gt;
+&lt;li&gt;Halle Institute for Economic Research (IWH) – Member of the Leibniz Association&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://rwi-essen.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RWI – Leibniz Institute for Economic Research&lt;/a&gt; in cooperation with the Institute for Advanced Studies in Vienna&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project duration:&lt;/strong&gt; 2020&amp;ndash;2022&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding body:&lt;/strong&gt; Federal Ministry of Economics and Technology&lt;/p&gt;
 </description>
     </item>
     
