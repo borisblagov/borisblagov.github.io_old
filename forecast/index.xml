@@ -5,7 +5,7 @@
     <link>/forecast/</link>
       <atom:link href="/forecast/index.xml" rel="self" type="application/rss+xml" />
     <description>Forecasts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Forecasts</title>
@@ -13,11 +13,27 @@
     </image>
     
     <item>
+      <title>Spring Forecast 2022: Renewed pressure delays economic recovery in Germany once more</title>
+      <link>/forecast/forecast_kb_22_2/</link>
+      <pubDate>Wed, 15 Jun 2022 11:00:00 +0000</pubDate>
+      <guid>/forecast/forecast_kb_22_2/</guid>
+      <description>&lt;p&gt;Economic activity in Germany has not improved markably in recent quarters. Following a decline in GDP in the fourth quarter of last year, output expanded only slightly in the first quarter. The weak economic recovery at the beginning of this year is likely to be due in significant part to the sharp rise in inflation, which has intensified again since the start of the war in Ukraine. The supply bottlenecks which have been delaying recovery from the economic consequences of the pandemic since last year temporarily eased somewhat at the beginning of this year. In the meantime, however, the problems with international logistics have been exacerbated again by the recent flare-up of infection in China.&lt;/p&gt;
+&lt;p&gt;The further course of economic recovery depends to a large extent on the development of inflation. It is becoming apparent that inflation will only weaken gradually. For exam-ple, the price increases for some raw materials, such as crude oil, are now easing. How-ever, prices for gas, which private households have to pay, are likely to continue to rise sharply in the coming months. Overall, consumer prices are expected to rise by 6.9% on average this year. In the coming year, we expect inflation to fall to 2.6% on average. The core rate is expected to be 4.1% and 2.3% respectively in the two years. Accordingly, the burdens on businesses and private households are expected to ease during the forecast period. The supply bottlenecks which continue to hamper production in the manufactur-ing sector will gradually ease in the second half of the year.&lt;/p&gt;
+&lt;p&gt;Against this background, GDP is expected to expand by 1.9% this year. We are thus revising our March forecast downward by 0.6% points. The main reason is that inflation has risen significantly more than expected in the previous forecast. For the coming year we expect GDP to increase by 2.7%.&lt;/p&gt;
+&lt;p&gt;The strong recovery on the labor market is continuing. Almost the entire increase in employment entails employment subject to social insurance contributions. The number of self-employed has recently stagnated. The average annual increase in employment is expected to be very strong at 1.4% in 2022, but then to level off at 0.6% in 2023. The unemployment rate is expected to be 5.0% and 4.9% in 2022 and 2023, respectively.&lt;/p&gt;
+&lt;p&gt;The budget deficit is expected to be a good EUR 53 billion in 2022. In the previous year, the figure was EUR 131 billion. In percentage terms, government revenue is expected to increase at roughly the same rate as GDP. Measures to counter the rise in energy prices - such as the temporary reduction in energy tax and the increase in the basic personal income tax allowance - will help prevent an even stronger increase. In 2023, we expect the fiscal deficit to fall further to EUR 36 billion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Joint Economic Forecast Fall 2020: Recovery loses momentum -Economy and politics further under the signs of the pandemic</title>
       <link>/forecast/forecast_gd_20_3/</link>
       <pubDate>Wed, 14 Oct 2020 10:00:00 +0000</pubDate>
       <guid>/forecast/forecast_gd_20_3/</guid>
       <description>&lt;p&gt;The global economy will contract by 4.0% this year and the rebound is expected at 5.6% in 2021. In Europe, we expect the downturn to be more severe than the world, with the current projection for the EU27 economic growth standing at -7.0%. This is due in part to the worsening outlook of the pandemic in some of the major countries, notably France, Spain and the Netherlands.&lt;/p&gt;
+&lt;div style = &#34;text-align: left;&#34;&gt;
+    &lt;embed style=&#34;border: none;&#34; src=&#34;test.html&#34; dpi=&#34;300&#34; width=&#34;120%&#34; height=&#34;700px&#34; /&gt;
+&lt;/div&gt;
 </description>
     </item>
     

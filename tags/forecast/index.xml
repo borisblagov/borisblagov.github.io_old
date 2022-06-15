@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecast | Boris Blagov</title>
+    <link>/tags/forecast/</link>
+      <atom:link href="/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forecast</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Forecast</title>
+      <link>/tags/forecast/</link>
+    </image>
+    
+    <item>
+      <title>Business Cycle Analysis</title>
+      <link>/project/business_cycle_analysis/</link>
+      <pubDate>Thu, 19 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/project/business_cycle_analysis/</guid>
+      <description>&lt;p&gt;This is a collection of the Business Cycle analysis that I have conducted either as part of understanding economic issues or as part of the regular forecasts of the RWI. The RWI &amp;ndash; Leibniz Institute for Economic Research conducts a quarterly analysis of the business cycle developments in Germany and the world economy since 1954. This analysis includes a detailed forecast for the international economy bi-annually, in March and September.&lt;/p&gt;
+&lt;p&gt;We are a team of experts with years of experience (for some members - decades) and we use cutting edge methods to create a thorough economic forecast for Germany and over 30 other countries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
