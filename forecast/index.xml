@@ -5,7 +5,7 @@
     <link>/forecast/</link>
       <atom:link href="/forecast/index.xml" rel="self" type="application/rss+xml" />
     <description>Forecasts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This site expresses my personal opinions and is not in any way affiliated with any organisation.</copyright><lastBuildDate>Wed, 15 Jun 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Forecasts</title>

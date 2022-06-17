@@ -239,7 +239,7 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
   }
 
   gtag('js', new Date());
-  gtag('config', 'UA-133292182-1', {});
+  gtag('config', 'UA-133292182-1', { 'anonymize_ip': true });
 
   
   document.addEventListener('click', onClickCallback, false);
@@ -252,8 +252,8 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0499619e9e461efd6e4d5a9e255c82a2_27992_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0499619e9e461efd6e4d5a9e255c82a2_27992_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/teaching/example/example1/">
 
@@ -289,6 +289,36 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#008FD5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#008FD5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -426,6 +456,35 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
 
         <li class="nav-item">
           <a class="nav-link " href="/#featuredfc"><span>Forecasts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#work_in_progress"><span>Work-in-progress</span></a>
         </li>
 
         
@@ -736,7 +795,7 @@ Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tell
   
 
   <p class="powered-by">
-    
+    This site expresses my personal opinions and is not in any way affiliated with any organisation. &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
