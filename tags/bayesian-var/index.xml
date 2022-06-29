@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Boris Blagov</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Bayesian VAR | Boris Blagov</title>
+    <link>/tags/bayesian-var/</link>
+      <atom:link href="/tags/bayesian-var/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian VAR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This site expresses my personal opinions and is not in any way affiliated with any organisation.</copyright><lastBuildDate>Wed, 01 Jun 2022 11:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>3</title>
-      <link>/publication_types/3/</link>
+      <title>Bayesian VAR</title>
+      <link>/tags/bayesian-var/</link>
     </image>
     
     <item>
@@ -19,22 +19,6 @@
       <guid>/publication/2022_rep_pvar/</guid>
       <description>&lt;p&gt;The code for the model will be available on the webpage of my co-author Dr. Jan Prüser - &lt;a href=&#34;https://sites.google.com/view/janprueser/computer-code&#34;&gt;https://sites.google.com/view/janprueser/computer-code&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The investment narrative: Improving private investment forecasts with media data</title>
-      <link>/publication/2021_rep_narratives/</link>
-      <pubDate>Mon, 13 Dec 2021 11:00:00 +0100</pubDate>
-      <guid>/publication/2021_rep_narratives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monetary policy uncertainty and inflation expectations</title>
-      <link>/publication/2021_rep_infexp/</link>
-      <pubDate>Mon, 01 Mar 2021 11:00:00 +0100</pubDate>
-      <guid>/publication/2021_rep_infexp/</guid>
-      <description></description>
     </item>
     
   </channel>
